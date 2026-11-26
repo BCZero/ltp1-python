@@ -1,0 +1,15 @@
+# Bibliotecas da Atividade Avaliativa 2BI - Tema 1 (Vendas de uma loja)
+# Instalação:  python -m pip install -r requirements.txt
+# Versão de Python recomendada: 3.10 ou superior
+
+# NumPy: cálculos numéricos e geração dos números aleatórios da planilha
+numpy>=1.26
+
+# Pandas: leitura do .xlsx, coluna calculada, filtros e groupby
+pandas>=2.1
+
+# openpyxl: motor que permite ao Pandas ler e gravar arquivos .xlsx
+openpyxl>=3.1
+
+# Matplotlib: criação dos gráficos e exportação em PNG
+matplotlib>=3.8
